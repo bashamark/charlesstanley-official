@@ -60,24 +60,15 @@
   ],
   "socials": [
     {
-      "social_name": "Website",
+      "social_name": "Audio Sermons",
       "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/website.png",
-      "social_url": "https://www.solodroid.net"
+      "social_url": "https://www.intouch.org/listen"
     },
     {
       "social_name": "Facebook",
       "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/facebook.png",
-      "social_url": "https://www.facebook.com/solodroid.net"
-    },
-    {
-      "social_name": "Twitter",
-      "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/twitter.png",
-      "social_url": "https://twitter.com/solodroiddev"
-    },
-    {
-      "social_name": "Instagram",
-      "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/instagram.png",
-      "social_url": "https://www.instagram.com/solodroid.developer"
+      "social_url": "https://www.facebook.com/InTouchMinistries"
     }
+
   ]
 }
